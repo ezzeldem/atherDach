@@ -143,17 +143,17 @@
 
   &.hover_class{
     width: 100px;
-    .name_box,.hiddin_box, .footer_box{
-      opacity: 0;
-      visibility: hidden;
-      @extend%trans-4;
-    }
     &:hover{
       width: 300px;
     .name_box,.hiddin_box, .footer_box{
       opacity: 1;
       visibility: visible;
     }
+    }
+    .name_box,.hiddin_box, .footer_box{
+      opacity: 0;
+      visibility: hidden;
+      @extend%trans-4;
     }
   }
 
