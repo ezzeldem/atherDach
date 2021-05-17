@@ -15,7 +15,7 @@
 
   .acount_box {
     padding: 40px 20px 20px;
-    background-image: url("../img/user-img-background.jpg");
+    background-image: url("../img/user-img.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,7 +61,7 @@
         a{
           padding: 10px 0;
           font-size: 16px;
-          color: rgba($gray-color2, 1);
+          color: rgba($min-color, 1);
           display: flex;
           align-content: center;
           @extend%trans-4;

@@ -78,12 +78,12 @@ html[dir="rtl"] .aside_section {
 
 .aside_section .acount_box {
   padding: 40px 20px 20px;
-  background-image: url("../img/user-img-background.jpg");
+  background-image: url("../img/user-img.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  -webkit-box-shadow: 0 4px 3px 0px rgba(244, 67, 54, 0.4);
-          box-shadow: 0 4px 3px 0px rgba(244, 67, 54, 0.4);
+  -webkit-box-shadow: 0 4px 3px 0px rgba(72, 111, 196, 0.4);
+          box-shadow: 0 4px 3px 0px rgba(72, 111, 196, 0.4);
 }
 
 .aside_section .acount_box .img_user .user_avatr {
@@ -122,7 +122,7 @@ html[dir="rtl"] .aside_section {
 .aside_section .ul_aside_box ul li a {
   padding: 10px 0;
   font-size: 16px;
-  color: #333333;
+  color: #486fc4;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -151,13 +151,13 @@ html[dir="rtl"] .aside_section {
   display: none;
   margin: 0 0 10px;
   padding: 0 10px 10px;
-  border-bottom: 1px solid rgba(63, 66, 56, 0.8);
+  border-bottom: 1px solid rgba(186, 44, 99, 0.8);
 }
 
 .aside_section .ul_aside_box ul li.has_chiled .sub_menu li a {
   line-height: 10px;
   font-size: 14px;
-  color: rgba(63, 66, 56, 0.8);
+  color: rgba(186, 44, 99, 0.8);
 }
 
 .aside_section .ul_aside_box ul li.has_chiled .sub_menu li a i {
@@ -189,7 +189,7 @@ html[dir="rtl"] .aside_section {
 }
 
 .aside_section .footer_box .prag a {
-  color: #f44336;
+  color: #486fc4;
 }
 
 .aside_section.hover_class {
@@ -236,7 +236,7 @@ html[dir="rtl"] .aside_section {
 }
 
 .nav_section .right_box .icon_box:hover .icon_line {
-  background-color: #f44336;
+  background-color: #486fc4;
 }
 
 .nav_section .right_box .icon_box .icon_line {
@@ -281,7 +281,7 @@ html[dir="rtl"] .aside_section {
 }
 
 .nav_section .left_box ul li .icon_box i:hover {
-  color: #f44336;
+  color: #486fc4;
 }
 
 .search_box {
@@ -335,11 +335,11 @@ html[dir="rtl"] .search_box .icon_close {
 }
 
 .search_box .icon_close:hover {
-  border-color: #f44336;
+  border-color: #486fc4;
 }
 
 .search_box .icon_close:hover i {
-  color: #f44336;
+  color: #486fc4;
 }
 
 .search_box .icon_close i {
@@ -382,7 +382,7 @@ html[dir="rtl"] .search_box .icon_close {
 }
 
 .content_section {
-  background-color: red;
+  background-color: #486fc4;
   padding: 20px;
   margin-top: 103px;
   margin-bottom: 40px;
